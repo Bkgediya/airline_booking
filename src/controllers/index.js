@@ -1,3 +1,3 @@
 module.exports = {
-    AboutController 
+    AirplaneController: require('../controllers/airplane')
 }
